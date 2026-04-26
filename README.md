@@ -34,13 +34,13 @@ Pasos para docentes y alumnos: [docs/taller/github-classroom-y-template.md](docs
 
 Completar con el enlace real al **GitHub Project**:
 
-**Tablero:** [Ver tablero] (https://github.com/orgs/UCSE-Programacion-2/projects/12)
+**Tablero:** [Ver tablero](https://github.com/orgs/UCSE-Programacion-2/projects/12)
 
 ## Integrantes (obligatorio: 3 por equipo)
 
-- **Apellido, Nombre** — [GitHub](https://github.com/)
-- **Apellido, Nombre** — [GitHub](https://github.com/)
-- **Apellido, Nombre** — [GitHub](https://github.com/)
+- **Matos, Francisco** — [GitHub](https://github.com/MacetaXL)
+- **Vilca, Lucas** — [GitHub](https://github.com/AlvaroLucas778)
+- **Maizares, Mauricio** — [GitHub](https://github.com/0mgm)
 
 ## Reglas de contribución (alineadas al integrador)
 
