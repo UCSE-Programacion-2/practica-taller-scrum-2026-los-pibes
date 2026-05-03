@@ -34,7 +34,7 @@ Pasos para docentes y alumnos: [docs/taller/github-classroom-y-template.md](docs
 
 Completar con el enlace real al **GitHub Project**:
 
-**Tablero:** [https://github.com/orgs/UCSE-Programacion-2/projects/28]
+**Tablero:** [https://github.com/orgs/UCSE-Programacion-2/projects/39]
 
 ## Integrantes (obligatorio: 3 por equipo)
 
